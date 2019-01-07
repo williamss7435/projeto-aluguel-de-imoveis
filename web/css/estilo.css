@@ -1,0 +1,84 @@
+*{
+	transition: 0.8s;
+}
+
+.barra-navegacao{
+	background-color: #FFFFFF;
+	border-bottom: 2px solid #F5D44E;
+}
+
+.bg-main{
+	background: url("../img/intro-bg1.jpg") no-repeat fixed top;
+}
+
+.bg-black{
+	background: url("../img/intro-bg-black.jpg") no-repeat fixed top;
+}
+
+.bg-red{
+	background: url("../img/intro-bg-red.jpg") no-repeat fixed top;
+}
+
+.bg-imovel{
+	background: url("../img/bg-cadastro.jpg") repeat fixed top;
+}
+
+.bg-imovel-red{
+	background: url("../img/bg-cadastro-red.jpg") repeat fixed top;
+}
+
+
+.navbar-brand{
+	color: orange;
+	font-size: 9px;
+	margin-right: 50px;
+}
+
+footer {
+	height: 25px;
+
+}
+
+.box-principal{
+	margin-top: 165px;
+	color: white;
+}
+
+.box-titulo{
+	border: solid white 4px;
+	font-size: 40px;
+	font-weight: 900;
+	background-color: rgba(255, 198, 10, 0.6);
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+.box-login{
+	font-size: 25px;
+	font-weight: 800;
+}
+
+.box-login a{
+	padding: 4px;
+	color: #FFCFCF;
+	border: solid white 2px;
+	border-radius: 10px;
+	background-color: rgba(189, 0, 6, 0.6);
+}
+
+.form-control-label{
+	border: 3px solid white;
+	color: black;
+	padding: 3px 35px 3px;
+	background-color: rgba(255, 198, 10, 0.9);
+	font-size: 13px;
+	font-weight: bold;
+	border-radius: 10px;
+}
+
+.active{
+	border-radius: 10px;
+	background-color: #FCD46A;
+	font-weight: bold;
+}
+

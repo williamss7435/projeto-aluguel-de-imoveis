@@ -1,0 +1,20 @@
+SMAP
+consultar_jsp.java
+JSP
+*S JSP
+*F
++ 0 consultar.jsp
+consultar.jsp
++ 1 conecta.jsp
+conecta.jsp
++ 2 verificar-login.jsp
+verificar-login.jsp
+*L
+1:51
+1#1:52
+3,23:54
+25:77
+2#0:78
+2#2,3:80
+3#0,76:83
+*E
